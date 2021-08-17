@@ -1,0 +1,164 @@
+.logo {
+	display: inline-block;
+	color: #FA6980;
+	margin-left: 21px;
+}
+.nav-li {
+	display: inline-block;
+	font-size: 11px;
+	margin-left: 28px;
+	color: darkgray;
+	margin-top: 21px;
+}
+.nav-li-other {
+	display: inline-block;
+	font-size: 11px;
+	margin-left: 28px; top: 21px;
+}
+.navigation {
+	display: inline-block;
+}
+.vertical {
+	vertical-align: middle;
+	margin-left: 44px;
+}
+.header-wrapper {
+	position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 28;
+    background-color: #F6F8F9;
+}
+.container {
+	width: 1160px;
+	margin: 0 auto;
+}
+.size {
+	margin-top: 87px;
+	color: #202124;
+	font-size: 24px;
+}
+.color {
+	color: #A6ADB4;
+	font-size: 13px;
+	margin: 75px 69px 80px 40px;
+	width: 240px;
+	height: 36px;
+}
+.div-child1 {
+	display: inline-block;
+	position: relative;
+	z-index: 10;
+	position: relative;
+	margin-top: 42px;
+	background-color: #FFFFFF;
+	/*height: 350px; ამას დავამატებდი თუ (P და class) დავარეგულირებდი*/ 
+}
+.color1 {
+	color: #FFFFFF;
+	font-size: 16px;
+	position: absolute;
+	left: 42px;
+	top: 48px;
+}
+.P {
+	vertical-align: middle;
+	width: 43px;
+	height: 13px;
+	font-size: 13px;
+	color: #A6ADB4;
+	display: inline-block; 
+	margin-left: 10px;
+	/*დასარეგულირებელი მაქვს სიმაღლე ფოტოდან*/
+}
+.class {
+	vertical-align: middle;
+	margin-left: 40px;
+    margin-top: 10px;
+    vertical-align: bottom;
+}
+.div-child2 {
+	display: inline-block;
+	position: relative;
+	z-index: 8;
+	margin: 42px 33px;
+	background-color: #FFFFFF;
+	/*height: 350px; ამას დავამატებდი თუ (P და class) დავარეგულირებდი*/
+}
+body {
+	background-color: #F6F8F9;
+}
+.subheadsub {
+	font-size: 24px;
+	color: #202124;	
+	margin-top: 24px;
+}
+.subheadsub {
+	font-size: 24px;
+	color: #202124;
+	margin-top: 58px;
+	margin-bottom: 40px;
+}
+.left-section {
+    display: inline-block;
+    vertical-align: top;
+}
+.section-division{
+	position: relative;
+}
+.PP {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.division {
+	margin-bottom: 30px;
+	margin-top: 42px;
+}
+.images-division {
+vertical-align: top;
+display: inline-block;
+width: 360px;
+height: 210px;
+margin-top: 42px;
+}
+.sizing {
+	margin-left: 40px;
+	margin-bottom: 102px;
+}
+.footer-color {
+	background-color: #A6ADB4;
+	margin-top: 38px;
+	height: 200px;
+}
+.division01 {
+	font-size: 13px;
+	color: #ffffff;
+	padding-top: 58px;
+	display: inline-block;
+	vertical-align: top;
+}
+.li-ul {
+	margin-bottom: 8px;
+	font-size: 13px;
+	color: #CBD0D3;
+	vertical-align: middle;
+}
+.neighbour {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 129px;
+	margin-top: 58px;
+}
+.division03 {
+	font-size: 11px;
+	color: #CBD0D3;
+	display: inline-block;
+	margin-top: 62px;
+	margin-left: 132px;
+	margin-right: 132px;
+}
